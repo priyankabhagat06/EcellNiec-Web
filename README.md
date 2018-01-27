@@ -1,3 +1,3 @@
 
 reach us on
-https://ecell-niec.github.io/Niec-Ecell/
+https://ecell-niec.github.io/EcellNiec-Web/
