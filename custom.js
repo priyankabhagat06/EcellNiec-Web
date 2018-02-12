@@ -8,6 +8,9 @@ $("#upcomingEventBtn").click(function () {
     $("#prev3").slideUp();
     $("#prev4").slideUp();
     $("#prev5").slideUp();
+    $("#ps").slideUp();
+    $("#ld").slideUp();
+    $("#lr").slideUp();
     $(".prevTitle").hide();
 
 
@@ -21,6 +24,9 @@ $("#previousEventBtn").click(function () {
     $("#prev3").slideDown();
     $("#prev4").slideDown();
     $("#prev5").slideDown();
+    $("#ps").slideDown();
+    $("#ld").slideDown();
+    $("#lr").slideDown();
     $(".prevTitle").show();
     $(".upTitle").hide();
 
@@ -33,6 +39,9 @@ $("#allEventBtn").click(function () {
     $("#prev3").slideDown();
     $("#prev4").slideDown();
     $("#prev5").slideDown();
+    $("#ps").slideDown();
+    $("#ld").slideDown();
+    $("#lr").slideDown();
     $(".prevTitle").show();
     $(".upTitle").show();
 
